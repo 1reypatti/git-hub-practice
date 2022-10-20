@@ -1,0 +1,38 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    
+
+}
+nav{
+    height: 100px;
+    background-color:white;
+       
+}
+header{
+
+    height: 600px;
+    background-image:url(https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+}
+section{
+background-color: rgb(34, 13, 13)
+}
+div{
+    display:inline-block;
+    background-color: rgb(243, 239, 233);
+    height: 200px;
+    width: 25%;
+    margin: 50px;
+
+}
+footer{
+    background-color: rgb(238, 235, 231);
+    height: 300px;
+}
+.Logo{
+    height: 100px;
+
+}
+
+
